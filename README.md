@@ -1,6 +1,6 @@
 ##  OĞUZ BARAN ÖZALP - 2200674049
 
-(https://github.com/oguzozalp/STACK-oguzozalp/blob/main/images.jpg)
+(https://github.com/oguzozalp/STACK-oguzozalp/raw/main/images.jpg)
 
 
 # STACK Project
