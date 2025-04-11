@@ -27,11 +27,16 @@ This script is my demonstration and testing ground for the stack implementation:
 
 ### coordinates.csv
 This CSV file contains sample data with the following columns: id, latitude, longitude, and name. The file lists details such as:
-- **A:** Geomatics Engineering (Latitude: 39.865547, Longitude: 32.733881)
-- **B:** Library (Latitude: 39.870883, Longitude: 32.734847)
-- **C:** Refectory (Latitude: 39.867947, Longitude: 32.737289)
+Below is a table summarizing the coordinate data:
+
+| ID | Latitude  | Longitude  | Name                  |
+|----|-----------|------------|-----------------------|
+| A  | 39.865547 | 32.733881  | Geomatics Engineering |
+| B  | 39.870883 | 32.734847  | Library               |
+| C  | 39.867947 | 32.737289  | Refectory             |
 
 I plan to use this data for future extensions of the project—for instance, to map these coordinates or to integrate data-driven features within the project.
+
 
 ## Implementation Details
 
